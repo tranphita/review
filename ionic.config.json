@@ -1,0 +1,8 @@
+{
+  "name": "Review",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "35cce695"
+}

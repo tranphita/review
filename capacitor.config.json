@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Review",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
